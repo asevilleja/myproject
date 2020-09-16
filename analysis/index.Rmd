@@ -11,4 +11,4 @@ editor_options:
 Welcome to my research website.
 
 * [Teeth growth analysis](teeth.html)
-* [Nabilah Sammudin's page](nchesamm.github.io/myproject/index.html)
+* [Nabilah Sammudin's page](http://nchesamm.github.io/myproject/index.html)
